@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Log.d("TEST", "I pressed a button & I love git!!!!!");
-                Toast.makeText(MainActivity.this, "I am a toast! message", Toast.LENGTH_LONG).show();
+                Toast.makeText(MainActivity.this, "I am a toast! message I am a change", Toast.LENGTH_LONG).show();
             }
         });
     }
